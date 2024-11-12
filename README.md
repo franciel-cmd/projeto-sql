@@ -306,3 +306,8 @@ VALUES ('pago', 150.00, 'cartao_credito', '2024-01-15 15:00:00', 1);
 
 INSERT INTO tbl_devolucoes (motivo_devolucao, qntd_devolvida, status_devolucao, valor_estornado, data_devolucao, tbl_vendas_id, tbl_colaboradores_id)
 VALUES ('Produto com defeito', 1, 'aprovada', 15.00, '2024-01-20', 1, 1);
+
+## Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
